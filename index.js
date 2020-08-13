@@ -14,11 +14,11 @@ client.on('connected', () => {
 })
 
 client.on('join', channel => {
-  console.log(`Joined channel: ${channel}`)
+  console.log(chalk.green(`Joined channel: ${channel}`))
 })
  
 client.on('error', err => {
-  console.log(err)
+  console.log(chalk.red(err))
 })
  
 client.on('message', chatter => {
