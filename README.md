@@ -1,5 +1,10 @@
-# Xeno TwitchBranch
-A simple, open source and modular twitch bot.
+# XenoBranch
+A simple, open source and modular Twitch bot.
+
+# Dependencies
+Both [twitch-bot](https://www.npmjs.com/package/twitch-bot) and [chalk](https://www.npmjs.com/package/chalk) are used in this repository.
+
+[twitch-bot](https://www.npmjs.com/package/twitch-bot) is required for the main functionality to run this bot and [chalk](https://www.npmjs.com/package/chalk) is optional.
 
 # Installation
 Download [NodeJS](https://nodejs.org/) and run `npm i` your terminal, ensuring you `cd` to your designated folder.
