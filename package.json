@@ -1,0 +1,14 @@
+{
+  "name": "xenotwitchbranch",
+  "version": "1.0.0",
+  "description": "A twitch bot with inspiration from the discord bot, 'Xeno'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CactiveNetwork",
+  "license": "ISC",
+  "dependencies": {
+    "twitch-bot": "^1.3.5"
+  }
+}
