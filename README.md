@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 # XenoBranch
-A simple, open source and modular Twitch bot.
+A simple, easy and open source Twitch bot.
 
 ## Dependencies
 Both [twitch-bot](https://www.npmjs.com/package/twitch-bot) and [chalk](https://www.npmjs.com/package/chalk) are used in this repository.
