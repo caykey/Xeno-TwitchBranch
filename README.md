@@ -26,3 +26,5 @@ In your **config.json** file also replace `botAccountName` to the name of your t
 
 Finally, to run the bot in terminal, run `node index.js`.
 
+## Default Commands
+Currently, there are no default commands setup. You can create one in the `index.js` file.
