@@ -13,6 +13,13 @@ Both [twitch-bot](https://www.npmjs.com/package/twitch-bot) and [chalk](https://
 ## Installation
 Download [NodeJS](https://nodejs.org/) and run `npm i` your terminal, ensuring you `cd` to your designated folder.
 
+```json
+{
+	"username": "botAccountName",
+	"oauth": "twitchOathToken"
+}
+```
+
 Open **config.json** and replace `twitchOathToken` with your oAuth token, you can generate one [here](https://twitchapps.com/tmi/).
 
 In your **config.json** file also replace `botAccountName` to the name of your twitch account.
