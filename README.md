@@ -1,3 +1,8 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
 # XenoBranch
 A simple, open source and modular Twitch bot.
 
@@ -14,3 +19,4 @@ Open **config.json** and replace `twitchOathToken` with your oAuth token, you ca
 In your **config.json** file also replace `botAccountName` to the name of your twitch account.
 
 Finally, to run the bot in terminal, run `node index.js`.
+
