@@ -68,3 +68,7 @@ In your `./commandLinks.json` make a new field, the following is an example.
 Unless you are using JSON with comments, remove the comments shown above.
 
 From there, you are good to go and start customising this Twitch bot to your liking!
+
+## Support & Bug Reporting
+
+If you need any support setting up your custom bot, you may join the [CactiveNetwork discord](https://discord.gg/NeqVuSy) or create an issue on GitHub.
