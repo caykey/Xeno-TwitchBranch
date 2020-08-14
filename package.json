@@ -4,11 +4,11 @@
   "description": "A twitch bot with inspiration from the discord bot, 'Xeno'.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "CactiveNetwork",
   "license": "ISC",
   "dependencies": {
-    "twitch-bot": "^1.3.5"
+    "better-ttb": "^1.0.0"
   }
 }
