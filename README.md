@@ -15,7 +15,7 @@ Both NPM dependencies [better-ttb](https://www.npmjs.com/package/better-ttb) and
 ## Installation
 Download [NodeJS](https://nodejs.org/) and run `npm i` your terminal, ensuring you `cd` to your designated folder.
 
-```json
+```jsonc
 {
 	"username": "botAccountName",
 	"oauth": "twitchOathToken",
@@ -54,3 +54,17 @@ exports.run = ((message) => {
 })
 ```
 Depending on your account, ensure you parse in the right variables to the file otherwise your command will error.
+In your `./commandLinks.json` make a new field, the following is an example.
+```jsonc
+{
+	"discord": "https://discord.gg/NeqVuSy",
+	"twitter": "https://twitter.com/caykeMC",
+	"youtube": "https://youtube.com/TheCactiveCake/",
+	"pack": "http://bit.ly/indigobliss/",
+	"poll": "This command doesn't exist yet!"
+	// On the last field in a JSON, don't add a comma at the end. 
+}
+```
+Unless you are using JSON with comments, remove the comments shown above.
+
+From there, you are good to go and start customising this Twitch bot to your liking!
