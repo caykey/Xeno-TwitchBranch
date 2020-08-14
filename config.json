@@ -1,4 +1,5 @@
 {
 	"username": "botAccountName",
-	"oauth": "twitchOathToken"
+	"oauth": "twitchOathToken",
+	"prefix": "-"
 }
