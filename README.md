@@ -71,4 +71,4 @@ From there, you are good to go and start customising this Twitch bot to your lik
 
 ## Support & Bug Reporting
 
-If you need any support setting up your custom bot, you may join the [CactiveNetwork discord](https://discord.gg/NeqVuSy) or create an issue on GitHub.
+If you need any support setting up your custom bot, you may join our [discord](https://discord.gg/NeqVuSy) or create an issue on GitHub.
